@@ -13,5 +13,11 @@ push image to my registry
 ![img.png](screenshots/img2.png)
 
 成功记录
+score： 0.57
 
-![img.png](screenshots/img3.png)
+### Feb 25th 打卡学习记录
+
+试着改进模型，让模型输入两个句子，
+但分数没太有改进
+
+![img_1.png](screenshots/img_4.png)
